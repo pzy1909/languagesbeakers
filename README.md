@@ -1,2 +1,2 @@
 # languagesbeakers
-The repository of DECO7350 team Language Sbeakers
+The repository of DECO3500/7350 team Language Sbeakers
