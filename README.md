@@ -26,6 +26,7 @@ part 2:https://github.com/pzy1909/languagesbeakers/wiki/Part-2-Testing-Process-a
 
 ## WEEK 10
 ### Test
+https://github.com/pzy1909/languagesbeakers/wiki/User-Test-on-Week-10
 ### Analysis
 ### Iteration
 ### Summary
