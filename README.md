@@ -20,9 +20,12 @@ part 2:https://github.com/pzy1909/languagesbeakers/wiki/Research-of-Which-device
 part 1:https://github.com/pzy1909/languagesbeakers/wiki/Part-1-Testing-Process-and-Interview-Record
 
 part 2:https://github.com/pzy1909/languagesbeakers/wiki/Part-2-Testing-Process-and-Interview-Record
-### Analysis
+
+### Analysis and Summary
+https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Analysis-and-Summarize-after-the-test
+
 ### Iteration
-### Summary
+https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-The-1st-Iteration-of-our-Application-and-Device
 
 ## WEEK 10
 ### Test
