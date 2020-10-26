@@ -8,7 +8,6 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-The-analysis-of-resear
 ### LOW FIDETITY PROTOTYPE
 https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-Low-Fidelity-Prototype-Models
 
-
 ## WEEK 9
 ### TEST:
 #### FURTHER USER RESEARCH ON DEVICES AND SO ON
@@ -26,7 +25,6 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Analysis-and-Summarize
 
 ### ITEREATION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-The-1st-Iteration-of-our-Application-and-Device
-
 
 ## WEEK 10
 ### TEST
