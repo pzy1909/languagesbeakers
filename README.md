@@ -69,6 +69,8 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-The-3rd-Iteration-of-
 The link and the instruction of our final prototype have already been shown at the top of read.me.
 ### CONCLUSION, ANALYSIS & REFLECTION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-Test-conclusion,-analysis-and-reflection
+ 
+Finally after we finished the designing of our high fidelity prototype, we almost funished our tasks. Next we will keep doing some fine-tuning and prepare for the trade show in week 12.
 
 
 
