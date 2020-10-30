@@ -19,7 +19,6 @@ https://github.com/pzy1909/languagesbeakers/wiki/Detailed-Instruction-of-prototy
 ### USER RESEARCH
 https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-The-analysis-of-research-data
 ### LOW FIDETITY PROTOTYPE
-#### THE LOW FIDELITY PROTOTYPE MODEL
 https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-Low-Fidelity-Prototype-Models
 
 ## WEEK 9
