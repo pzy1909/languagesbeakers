@@ -13,12 +13,11 @@ https://xd.adobe.com/view/9e1150e7-3555-4027-adbc-09ad63684f18-cb42/
 
 And all of our prototypes have already uploaded in github. And the screenshot of our high fidelity prototype is shown in week 11's iteration part.
 
-### The Poster for Exhibition
-https://github.com/pzy1909/languagesbeakers/blob/master/language%20sbeaker%20conference%20poster.pdf
-
 ### The detailed instruction of our prototype
 https://github.com/pzy1909/languagesbeakers/wiki/Detailed-Instruction-of-prototype
 
+# The Poster for Exhibition
+https://github.com/pzy1909/languagesbeakers/blob/master/language%20sbeaker%20conference%20poster.pdf
 
 # DESIGN PROCESS
 ## WEEK 8
