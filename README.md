@@ -55,6 +55,8 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-10-~-The-2nd-Iteration-of-
 https://github.com/pzy1909/languagesbeakers/wiki/Week-10-~-User-Test-Summary
 ### MEDIUM FIDELITY PROTOTYPE AFTER ITERATION
 https://xd.adobe.com/view/0ac337c1-119b-4685-8a31-4fc90c993d19-5f90/
+### SUMMARY OF STAND-UP
+https://github.com/pzy1909/languagesbeakers/wiki/Week-10-~-Summary-of-Stand-up
 
 ## WEEK 11
 ### TEST
