@@ -1,7 +1,8 @@
-# Language Sbeakers
-The repository of DECO3500/7350 team Language Sbeakers
+# LANGUAGE SBEAKERS
+The repository of DECO3500/7350 team Language Sbeakers.
+All of our wiki articles have a hyperlink in this read.me.
 
-# WIKI
+# DESIGN PROCESS
 ## WEEK 8
 ### USER RESEARCH
 https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-The-analysis-of-research-data
