@@ -20,6 +20,8 @@ https://github.com/pzy1909/languagesbeakers/wiki/Detailed-Instruction-of-prototy
 https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-The-analysis-of-research-data
 ### ORIGINAL LOW FIDETITY PROTOTYPE
 https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-Low-Fidelity-Prototype-Models
+### SUMMARY OF STAND-UP
+https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-Summary-of-Stand-up
 
 ## WEEK 9
 ### TEST:
