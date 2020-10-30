@@ -27,17 +27,16 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-8-~-Low-Fidelity-Prototype
 part 1: https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Research-of-Which-device-is-suitable-(Part-1)
 
 part 2: https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Research-of-Which-device-is-suitable-(Part-2)
-
 #### DETAILS OF OUR RESEARCH PROCESS AND INTERVIEW
 part 1: https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Part-1-Testing-Process-and-Interview-Record
 
 part 2: https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Part-2-Testing-Process-and-Interview-Record
-
 ### ANALYSIS AND SUMMARY
 https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-Analysis-and-Summarize-after-the-test
-
 ### ITEREATION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-9-~-The-1st-Iteration-of-our-Application-and-Device
+### LOW FIDELITY PROTOTYPE AFTER ITERATION
+https://xd.adobe.com/view/ddcdfc28-7b58-4442-ac3f-65277fe0879b-889e/
 
 ## WEEK 10
 ### TEST
