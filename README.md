@@ -43,11 +43,11 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-10-~-User-Test-Summary
 ### TEST
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-User-test
 #### DETAILED TEST PROCESS
-
+https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-User-test-process
 ### ITERATION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-The-3rd-Iteration-of-our-Application-and-Device
-### ANALYSIS AND SUMMARY
-
+### CONCLUSION, ANALYSIS & REFLECTION
+https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-Test-conclusion,-analysis-and-reflection
 
 
 
