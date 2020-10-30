@@ -16,7 +16,7 @@ And all of our prototypes have already uploaded in github. And the screenshot of
 ### The detailed instruction of our prototype
 https://github.com/pzy1909/languagesbeakers/wiki/Detailed-Instruction-of-prototype
 
-# The Poster for Exhibition
+## THE POSTER FOR EXHIBITION
 https://github.com/pzy1909/languagesbeakers/blob/master/language%20sbeaker%20conference%20poster.pdf
 
 # DESIGN PROCESS
