@@ -42,12 +42,12 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-10-~-User-Test-Summary
 ## WEEK 11
 ### TEST
 
-### ANALYSIS
-
 ### ITERATION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-The-3rd-Iteration-of-our-Application-and-Device
 
-### SUMMARY
+### ANALYSIS AND SUMMARY
+
+
 
 
 
