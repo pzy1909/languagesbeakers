@@ -59,6 +59,8 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-User-test
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-User-test-process
 ### ITERATION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-The-3rd-Iteration-of-our-Application-and-Device
+### MEDIUM HIGH PROTOTYPE AFTER ITERATION
+The link and the instruction of our final prototype have already been shown at the top of read.me.
 ### CONCLUSION, ANALYSIS & REFLECTION
 https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-Test-conclusion,-analysis-and-reflection
 
