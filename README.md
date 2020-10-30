@@ -11,6 +11,7 @@ https://github.com/pzy1909/languagesbeakers/wiki
 ### The address of our final proof-of-concept prototype
 https://xd.adobe.com/view/9e1150e7-3555-4027-adbc-09ad63684f18-cb42/
 ### The detailed instruction of our prototype
+https://github.com/pzy1909/languagesbeakers/wiki/Detailed-Instruction-of-prototype
 
 
 # DESIGN PROCESS
