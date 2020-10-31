@@ -80,6 +80,7 @@ https://github.com/pzy1909/languagesbeakers/wiki/Week-11-~-Test-conclusion,-anal
 Finally after we finished the designing of our high fidelity prototype, we almost funished our tasks. Next we will keep doing some fine-tuning and prepare for the trade show in week 12.
 
 # PERSONAL CONTRIBUTION
+https://github.com/pzy1909/languagesbeakers/wiki/Personal-Contribution
 
 
 
